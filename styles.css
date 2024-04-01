@@ -1,0 +1,29 @@
+/* styles.css */
+
+body{
+  background-image: linear-gradient(to right,#f83324,rgb(233, 236, 235),rgba(236, 232, 232, 0.63),rgb(75, 218, 243));
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+#search-form {
+  margin-bottom: 20px;
+}
+
+#result-container {
+  text-align: center;
+}
